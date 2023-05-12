@@ -11,6 +11,7 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 
 
 
+
 ## SQL
 
 | Project Link | Completion Date | Tools | Project Description | 
