@@ -1,8 +1,8 @@
-# 🗺 Katie's Portfolio
+##  <img width="47" alt="Screen Shot 2023-05-12 at 2 48 50 PM" src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/26d13e65-3ee9-4c22-9e1f-0a632ac33ffb"> Jiaqi's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Glad to see you ! This is where I summarize my projects in the field of data analytics. 
 
-## 📚 Table of Contents
+## <img width="47" alt="Screen Shot 2023-05-12 at 2 48 50 PM" src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/83415bca-bada-4b06-a18b-329f15811c2f">  Table of Contents
 - [Data Engineering](#data-engineering)
 - [SQL](#sql)
 - [Python](#python)
