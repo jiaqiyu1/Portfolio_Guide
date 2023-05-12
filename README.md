@@ -31,7 +31,7 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 
 | Project Name |  Project Description |Project Link |
 |---|---|---|
-|[Australia NSW Property Analysis (June 2017)](https://github.com/jiaqiyu1/Property_Analysis/tree/main/Power%20BI) |Analyzed NSW property median value through school,train station and location  | |  
+|[Australia NSW Property Analysis (June 2017)](https://github.com/jiaqiyu1/Property_Analysis/tree/main/Power%20BI) |Analyzed NSW property median value through school,train station and location  |[Link](https://app.powerbi.com/view?r=eyJrIjoiNjQ1MDRkMmQtNjQ2ZS00NTY1LTlkYWUtOWI1YjFmZjYxZTI3IiwidCI6ImU0ZjJiMDU3LWQ5YTQtNDljZi1hZjE1LTlmY2FhZmY5NjNhNyIsImMiOjEwfQ%3D%3D)|  
 
 ***
 
@@ -39,8 +39,7 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 
 | Project Link | Project Description | Project Link |
 |---|---|---|
-| 🦄 [Maven Unicorn Challenge](https://github.com/katiehuangx/Maven-Unicorn-Challenge) | Cleansed and transformed data on privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Link](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
+
 
 ***
 
