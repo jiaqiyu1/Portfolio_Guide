@@ -14,8 +14,8 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🍜[Danny's Diner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) | Customer analysis | I gather and analyze customer data to determine their visiting patterns, spending habits, and favorite menu items.  | 
-| 🍕[Pizza Runner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner) | Data cleaning, transformation, and analysis | I analyze pizza orders, runner and customer experience, and ingredient optimization.  |  
+| 🍜[Danny's Diner](https://github.com/jiaqiyu1/SQL_CaseStudy_DannyMa/tree/main/CaseStudy1_Danny's%20Dinner) | Customer analysis | gather and analyze customer data to determine their visiting patterns, spending habits, and favorite menu items.  | 
+ 
  
 
 ***
