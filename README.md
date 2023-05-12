@@ -9,23 +9,6 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 - [SSIS](#ssis)
 - [SSRS/Report Builder](#ssrsreport-builder)
 
-## SQL
-
-This section is about SQL.
-
-## Power BI
-
-This section is about Power BI.
-
-## SSIS
-
-This section is about SSIS.
-
-## SSRS/Report Builder
-
-This section is about SSRS/Report Builder.
-
-
 
 
 ## SQL
@@ -63,3 +46,6 @@ This section is about SSRS/Report Builder.
 
 ***
 
+## SSRS/Report Builder
+
+This section is about SSRS/Report Builder.
