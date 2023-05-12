@@ -1,3 +1,7 @@
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/jiaqiyu1)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/jiaqiyu1?tab=repositories)
+
+
 ##  <img width="47" alt="Screen Shot 2023-05-12 at 2 48 50 PM" src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/26d13e65-3ee9-4c22-9e1f-0a632ac33ffb"> Jiaqi's Portfolio
 
 Glad to see you ! This is where I summarize my projects in the field of data analytics. 
