@@ -22,7 +22,7 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 | [Pizza Runner](https://github.com/jiaqiyu1/SQL_CaseStudy_DannyMa/tree/main/CaseStudy2_PizzaRunner) |Data Cleaning, Transformation, and Analysis | Analyze pizza orders, runner and customer experience, and ingredient optimization.  | 
 | [Covid-19 Pandemic](https://github.com/jiaqiyu1/PortfolioProject/blob/main/SQL_Exploration_COVID%2019.sql) |Data Exploration, Data Analysis |Data exploration and analysis on Covid-19 related data to gain insights into the pandemic's impact on different countries and regions.  | 
 | [Nashville Housing](https://github.com/jiaqiyu1/PortfolioProject/blob/main/SQL_ETL_NashvilleHousing_.sql) |ETL, Data Standarization |Cleanses data in a table by standardizing date formats, populating null data, and breaking down address information into separate columns. | 
-| [Property Analysis](https://github.com/jiaqiyu1/PortfolioProject/blob/main/SQL_Query_IC_PropertyAnalysis_Task1.sql) |Retrieve data based on specific criteria |Provided are related to a property management system and address different aspects of the system, such as retrieving property information for a specific owner, calculating rental payments and yield for each property.| 
+| [Property Analysis](https://github.com/jiaqiyu1/Property_Analysis/blob/main/SQL/SQL_Query_IC_PropertyAnalysis_Task1.sql) |Retrieve data based on specific criteria |Provided are related to a property management system and address different aspects of the system, such as retrieving property information for a specific owner, calculating rental payments and yield for each property.| 
 
 
 ***
