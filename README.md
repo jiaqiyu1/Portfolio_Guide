@@ -14,7 +14,7 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🍜[Danny's Diner](https://github.com/jiaqiyu1/SQL_CaseStudy_DannyMa/tree/main/CaseStudy1_Danny's%20Dinner) | Customer Analysis | gather and analyze customer data to determine their visiting patterns, spending habits, and favorite menu items.  | 
+| [Danny's Diner](https://github.com/jiaqiyu1/SQL_CaseStudy_DannyMa/tree/main/CaseStudy1_Danny's%20Dinner) | Customer Analysis | gather and analyze customer data to determine their visiting patterns, spending habits, and favorite menu items.  | 
  
  
 
