@@ -7,9 +7,7 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 - [SQL](#sql)
 - [Power BI](#power-bi)
 - [SSIS](#ssis)
-- [SSRS/Report Builder/Paginated Report](#ssrs-reportbuilder-paginatedreport)
-
-
+- [SSRS/Report Builder/Paginated Report](#ssrsreport-builderpaginated-report)
 
 
 ## SQL
