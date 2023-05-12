@@ -47,5 +47,5 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 
 | Project Name | Skills | Project Description | 
 |---|---|---|
-| [Expense Report Of Property A](https://github.com/jiaqiyu1/Property_Analysis/blob/main/SSRS_ReportBuilder_PaginatedReport/SQL_Query_IC_Property_Analysis_Task2_Expense%20Report%20Of%20Property%20A.sql) | SQL, Report Builder  |  SQL query scripts designed for use in a report builder, which generates an expense report for Property A.  | 
+| [Expense Report Of Property A](https://github.com/jiaqiyu1/Property_Analysis/tree/main/SSRS_ReportBuilder_PaginatedReport) | SQL, Report Builder  |  SQL query scripts designed for use in a report builder, which generates an expense report for Property A.  | 
 
