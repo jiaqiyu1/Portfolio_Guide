@@ -44,16 +44,16 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 
 
 
-| Project Name | Skills | Project Description | 
+| Project Name | Tools | Skills | 
 |---|---|---|
-| [Australia NSW Dataset_ETL_SSIS_Solution](https://github.com/jiaqiyu1/Property_Analysis/tree/main/SSRS_ReportBuilder_PaginatedReport) | SQL, Report Builder  |  SQL query scripts designed for use in a report builder, which generates an expense report for Property A.  | 
+| [Australia NSW Dataset_ETL_SSIS_Solution](https://github.com/jiaqiyu1/Property_Analysis/tree/main/SSIS) | SSIS, Visual studio,Excel, SQL  | retrive business keys, lookup surrogate keys, data type conversion,etc. | 
 
 
 ***
 
 ## <img src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/7fe1f960-3016-40f3-bd62-352503c7c287" width="32" height="32"> SSRS/Report Builder/Paginated Report
 
-| Project Name | Skills | Project Description | 
+| Project Name | Tools | Project Description | 
 |---|---|---|
 | [Expense Report Of Property A](https://github.com/jiaqiyu1/Property_Analysis/tree/main/SSRS_ReportBuilder_PaginatedReport) | SQL, Report Builder  |  SQL query scripts designed for use in a report builder, which generates an expense report for Property A.  | 
 
