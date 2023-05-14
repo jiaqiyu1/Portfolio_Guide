@@ -14,7 +14,8 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 - [SSRS/Report Builder/Paginated Report](#ssrsreport-builderpaginated-report)
 
 
-## SQL
+## <img src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/d7d008f5-c521-4e3a-9221-73d59bd53d05" width="32" height="32"> SQL
+
 
 | Project Name | Area(s) of Analysis | Project Description | 
 |---|---|---|
@@ -27,7 +28,7 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 
 ***
 
-## Power BI
+## <img src ="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/16a404c5-d9e4-428e-b2c8-ee1203c51e39" width="32" height="32"> Power BI
 
 | Project Name |  Project Description |Project Link |
 |---|---|---|
@@ -35,7 +36,7 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 
 ***
 
-## SSIS
+## <img src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/b039d8f9-a4b4-45b2-bba0-bf06b8e8391b" width="32" height="32"> SSIS
 
 | Project Link | Project Description | Project Link |
 |---|---|---|
@@ -43,7 +44,7 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 
 ***
 
-## SSRS/Report Builder/Paginated Report
+## <img src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/c5ffdaf3-9ded-4e3c-8d10-15a8ff50e291" width="32" height="32"> SSRS/Report Builder/Paginated Report
 
 | Project Name | Skills | Project Description | 
 |---|---|---|
