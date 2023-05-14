@@ -34,6 +34,9 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 | Project Name |  Project Description |Project Link |
 |---|---|---|
 |[Australia NSW Property Analysis (June 2017)](https://github.com/jiaqiyu1/Property_Analysis/tree/main/Power%20BI) |Analyzed NSW property median value through school,train station and location  |[Link](https://app.powerbi.com/view?r=eyJrIjoiNjQ1MDRkMmQtNjQ2ZS00NTY1LTlkYWUtOWI1YjFmZjYxZTI3IiwidCI6ImU0ZjJiMDU3LWQ5YTQtNDljZi1hZjE1LTlmY2FhZmY5NjNhNyIsImMiOjEwfQ%3D%3D)|  
+|[Australia NSW Property Analysis (June 2017)](https://github.com/jiaqiyu1/Property_Analysis/tree/main/Power%20BI) |Analyzed NSW property median value through school,train station and location  |[Link](https://app.powerbi.com/view?r=eyJrIjoiNjQ1MDRkMmQtNjQ2ZS00NTY1LTlkYWUtOWI1YjFmZjYxZTI3IiwidCI6ImU0ZjJiMDU3LWQ5YTQtNDljZi1hZjE1LTlmY2FhZmY5NjNhNyIsImMiOjEwfQ%3D%3D)|  
+|[Australia NSW Property Analysis (June 2017)](https://github.com/jiaqiyu1/Property_Analysis/tree/main/Power%20BI) |Analyzed NSW property median value through school,train station and location  |[Link](https://app.powerbi.com/view?r=eyJrIjoiNjQ1MDRkMmQtNjQ2ZS00NTY1LTlkYWUtOWI1YjFmZjYxZTI3IiwidCI6ImU0ZjJiMDU3LWQ5YTQtNDljZi1hZjE1LTlmY2FhZmY5NjNhNyIsImMiOjEwfQ%3D%3D)|  
+|[Australia NSW Property Analysis (June 2017)](https://github.com/jiaqiyu1/Property_Analysis/tree/main/Power%20BI) |Analyzed NSW property median value through school,train station and location  |[Link](https://app.powerbi.com/view?r=eyJrIjoiNjQ1MDRkMmQtNjQ2ZS00NTY1LTlkYWUtOWI1YjFmZjYxZTI3IiwidCI6ImU0ZjJiMDU3LWQ5YTQtNDljZi1hZjE1LTlmY2FhZmY5NjNhNyIsImMiOjEwfQ%3D%3D)|  
 
 ***
 
