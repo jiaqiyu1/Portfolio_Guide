@@ -40,9 +40,6 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 |<img src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/e6deedec-f51b-499c-aff4-788df01c7b42" alt="PwC logo" width="32" height="32">[PwC Project_Customer Retention Analysis](https://github.com/jiaqiyu1/PortfolioProject/tree/main/PwC%20Projects/Customer%20Retention%20Analysis) | Identify reasons for a reduction in revenue by investigating customer churn, determining the reasons behind it, and recommending steps to improve customer retention.|[Link](https://app.powerbi.com/view?r=eyJrIjoiMzZhMTc3ODUtYzBmMi00ZDg4LWFhOTYtZDdiMzBmMDM1YTJmIiwidCI6ImNiOTAzNDgyLWU1MGYtNDlkNC1hMDlhLTFiYTIzMjc1MTFhNiJ9&pageName=ReportSection331a3760060aa958653a)|
 |<img src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/e6deedec-f51b-499c-aff4-788df01c7b42" alt="PwC logo" width="32" height="32">[PwC Project_Diversity and Inclusion Analysis](https://github.com/jiaqiyu1/PortfolioProject/tree/main/PwC%20Projects/Diversity%20%26%20Inclusion%20Analysis) |Client seeks insights to improve gender balance at executive management level for diversity and inclusion.|[Link](https://app.powerbi.com/view?r=eyJrIjoiMmU5Zjc1OGYtYThlZi00MGQ5LWE2NDUtYzkyNWRkODljMzJjIiwidCI6ImNiOTAzNDgyLWU1MGYtNDlkNC1hMDlhLTFiYTIzMjc1MTFhNiJ9&pageName=ReportSection)|
 
-![pwc logo](https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/e6deedec-f51b-499c-aff4-788df01c7b42)
-
-
 ***
 
 ## <img src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/4e902309-65a3-4283-9b44-80cb2c5aa24e" width="32" height="32"> SSIS/ETL Pipeline
