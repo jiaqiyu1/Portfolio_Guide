@@ -11,7 +11,7 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 
 - [SQL](#-sql)
 - [Power BI](#-power-bi)
-- [SSIS/ETL Pipeline](#-ssis-etl-pipeline)
+- [SSIS/ETL Pipeline](#-ssisetl-pipeline)
 - [SSRS/Report Builder/Paginated Report](#-ssrsreport-builderpaginated-report)
 - [Side Projects](#-side-projects)
 
