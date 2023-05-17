@@ -9,17 +9,13 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 
 ## <img width="47" alt="Screen Shot 2023-05-12 at 2 48 50 PM" src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/83415bca-bada-4b06-a18b-329f15811c2f">  Table of Contents
 
-- [SQL](#sql)
-- [Power BI](#power-bi)
-- [SSIS](#ssis)
-- [SSRS/Report Builder/Paginated Report](#ssrs-report-builder-paginated-report)
-- [Side Projects](#side-projects)
-
 - [SQL](#-sql)
-- [Power BI](-#power-bi)
+- [Power BI](#-power-bi)
 - [SSIS](#-ssis)
-- [SSRS/Report Builder/Paginated Report](#ssrs-report-builder-paginated-report)
-- [Side Projects](#side-projects)
+- [SSRS/Report Builder/Paginated Report](#-ssrs-report-builder-paginated-report)
+- [Side Projects](#-side-projects)
+
+
 
 ## <img src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/70cb71dc-11bc-4d5b-91f3-56a0c841771c" width="32" height="32"> SQL
 
