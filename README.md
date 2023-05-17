@@ -15,9 +15,9 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 - [SSRS/Report Builder/Paginated Report](#ssrs-report-builder-paginated-report)
 - [Side Projects](#side-projects)
 
-- [SQL](#sql)
-- [Power BI](#power-bi)
-- [SSIS](#ssis)
+- [SQL](#-sql)
+- [Power BI](-#power-bi)
+- [SSIS](#-ssis)
 - [SSRS/Report Builder/Paginated Report](#ssrs-report-builder-paginated-report)
 - [Side Projects](#side-projects)
 
