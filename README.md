@@ -13,7 +13,7 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 - [Power BI](#-power-bi)
 - [Data Warehouse Architecture/SSIS/ETL Pipeline](#-data-warehouse-architecturessisetl-pipeline)
 - [SSRS/Report Builder/Paginated Report](#-ssrsreport-builderpaginated-report)
-- [Side Projects](#-side-projects)
+- [GIS Project](#-gis-project)
 
 
 
@@ -62,7 +62,7 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 
 
 ***
-## <img src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/3e6369c4-90eb-4965-9e09-620377237a7e" width="32" height="32"> Side Projects
+## <img src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/3e6369c4-90eb-4965-9e09-620377237a7e" width="32" height="32"> GIS Project
 | Project Name | Tools | Project Description | 
 |---|---|---|
 | [Predicting Optimal Wheat Cultivation Areas in Taiwan](https://github.com/jiaqiyu1/PortfolioProject/tree/main/Predicting%20Optimal%20Wheat%20Cultivation%20Areas%20in%20Taiwan#predicting-optimal-wheat-cultivation-areas-in-taiwan-a-forecasting-studyarcgis--r) | ArcGIS Pro, R, MS Excel  |  This study utilizes ArcGIS and R to predict the most suitable areas for wheat cultivation in Taiwan, providing valuable insights for agricultural planning and decision-making in the region. | 
