@@ -11,7 +11,7 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 
 - [SQL](#-sql)
 - [Power BI](#-power-bi)
-- [Data Warehouse Architecture/SSIS/ETL Pipeline](#-data-warehouse-architechturessisetl-pipeline)
+- [Data Warehouse Architecture/SSIS/ETL Pipeline](#-data-warehouse-architecturessisetl-pipeline)
 - [SSRS/Report Builder/Paginated Report](#-ssrsreport-builderpaginated-report)
 - [Side Projects](#-side-projects)
 
