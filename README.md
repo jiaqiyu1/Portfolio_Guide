@@ -44,7 +44,7 @@ Glad to see you ! This is where I summarize my projects in the field of data ana
 
 ***
 
-## <img src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/4e902309-65a3-4283-9b44-80cb2c5aa24e" width="32" height="32"> Data Warehouse Architecture/SSIS/ETL Pipeline
+## <img src="https://github.com/jiaqiyu1/Portfolio_Guide/assets/84236678/4e902309-65a3-4283-9b44-80cb2c5aa24e" width="32" height="32"> SSIS/ETL Pipeline
 
 
 | Project Name | Tools | Skills | 
